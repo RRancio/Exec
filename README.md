@@ -9,3 +9,6 @@ reads things to check unicode characters in that things
 
 # Maceta [Python]
 better file system scanner [it queries virustotal too]
+
+# Ruedas [Python]
+parses syscache.hve to get the sha1 values and query it to virustotal [again]
