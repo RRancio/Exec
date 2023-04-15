@@ -1,7 +1,7 @@
 # Exec
 my project executable files
 
-# Mecha [C# & Python]- Windows 7/8.*/10/11
+# Mecha [C# & Python] - Windows 7/8.*/10/11
 reads amcache information sha1 values given and queries it using virustotal api
 
 # Unicode [C#] - Windows 7/8.*/10/11
