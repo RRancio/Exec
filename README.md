@@ -7,7 +7,7 @@ reads amcache information sha1 values given and queries it using virustotal api
 # Unicode [C#] - Windows 7/8.*/10/11
 reads things to check unicode characters in that things
 
-# Maceta [Python]- Windows 7/8.*/10/11
+# Maceta [Python] - Windows 7/8.*/10/11
 better file system scanner [it queries virustotal too]
 
 # Ruedas [Python] - Windows 7
