@@ -15,3 +15,6 @@ parses syscache.hve to get the sha1 values and query it to virustotal [again]
 
 # DDF [Python] - Windows 7/8.*/10/11
 scans javaw instance to detect DoomsDay client. [used client in 1.9+]
+
+# doomsdayhater [Golang] - Linux AMD64/x86_64
+scans minecraft instance to detect doomsday client (again) but in linux
